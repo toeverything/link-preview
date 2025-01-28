@@ -34,7 +34,7 @@ importers:
         version: 0.0.19
       '@types/node':
         specifier: ^22.0.0
-        version: 22.10.10
+        version: 22.12.0
       tldts:
         specifier: ^6.1.38
         version: 6.1.75
@@ -52,7 +52,7 @@ importers:
         version: 4.20250124.3
       '@types/node':
         specifier: ^22.0.0
-        version: 22.10.10
+        version: 22.12.0
       typescript:
         specifier: ^5.5.4
         version: 5.7.3
@@ -79,7 +79,7 @@ importers:
         version: 4.20250124.3
       '@types/node':
         specifier: ^22.0.0
-        version: 22.10.10
+        version: 22.12.0
       tldts:
         specifier: ^6.1.38
         version: 6.1.75
@@ -103,7 +103,7 @@ importers:
         version: 4.20250124.3
       '@types/node':
         specifier: ^22.0.0
-        version: 22.10.10
+        version: 22.12.0
       itty-router:
         specifier: ^5.0.0
         version: 5.0.18
@@ -429,8 +429,8 @@ packages:
   '@tybys/wasm-util@0.9.0':
     resolution: {integrity: sha512-6+7nlbMVX/PVDCwaIQ8nTOPveOcFLSt8GcXdx8hD0bt39uWxYT88uXzqTd4fTvqta7oeUJqudepapKNt2DYJFw==}
 
-  '@types/node@22.10.10':
-    resolution: {integrity: sha512-X47y/mPNzxviAGY5TcYPtYL8JsY3kAq2n8fMmKoRCxq/c4v4pyGNCzM2R6+M5/umG4ZfHuT+sgqDYqWc9rJ6ww==}
+  '@types/node@22.12.0':
+    resolution: {integrity: sha512-Fll2FZ1riMjNmlmJOdAyY5pUbkftXslB5DgEzlIuNaiWhXd00FhWxVC/r4yV/4wBb9JfImTu+jiSvXTkJ7F/gA==}
 
   acorn-walk@8.3.4:
     resolution: {integrity: sha512-ueEepnujpqee2o5aIYnvHU6C0A42MNdsIDeqy5BydrkuC5R1ZuUFnm27EeFJGoEHJQgn3uleRvmTXaJgfXbt4g==}
@@ -903,7 +903,7 @@ snapshots:
       tslib: 2.8.1
     optional: true
 
-  '@types/node@22.10.10':
+  '@types/node@22.12.0':
     dependencies:
       undici-types: 6.20.0
 
